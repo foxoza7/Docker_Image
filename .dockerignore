@@ -1,0 +1,16 @@
+.git
+.github
+terraform
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv
+.env
+.env.*
+.vscode
+.idea
+.DS_Store
+README.md
+tests

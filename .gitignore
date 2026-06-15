@@ -1,0 +1,25 @@
+# Entornos
+venv/
+CI/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Python / Compilados
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Secretos (¡Nunca subas esto!)
+.env
+
+# Entorno
+venv/
+Lib/
+Scripts/
+pyvenv.cfg
